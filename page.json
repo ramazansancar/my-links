@@ -1,27 +1,72 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Ramazan Sancar",
+  "description": "Frontend Developer @Proktek Otomasyon | Full Stack Developer",
+  "image_url": "https://raw.githubusercontent.com/ramazansancar/my-links/main/profile-picture.webp",
   "links": [
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
-      "icon": "twitter"
+      "title": "Web Site",
+      "url": "https://www.ramazansancar.com.tr/",
+      "icon": "home"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/ramazansancar/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/ramazansancar",
       "icon": "github"
     },
     {
+      "title": "Twitter",
+      "url": "https://twitter.com/sancaramazan",
+      "icon": "twitter"
+    },
+    {
       "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
+      "url": "https://gitlab.com/ramazansancar",
       "icon": "gitlab"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@sancaramazan",
+      "icon": "medium"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/sancaramazan/",
+      "icon": "instagram"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com/user/RamazanSancar",
+      "icon": "reddit"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://hackernoon.com/u/ramazansancar",
+      "icon": "reddit"
+    },
+    {
+      "title": "Discord",
+      "url": "https://discord.com/users/252451610389643265/",
+      "icon": "discord"
+    },
+    {
+      "title": "Calendly",
+      "url": "https://calendly.com/ramazansancar",
+      "icon": "calendar"
+    },
+    {
+      "title": "Ko-fi",
+      "url": "https://ko-fi.com/ramazan",
+      "icon": "mug"
+    },
+    {
+      "title": "Buy Me a Coffee",
+      "url": "https://www.buymeacoffee.com/ramazansancar",
+      "icon": "mug"
     }
   ]
 }
